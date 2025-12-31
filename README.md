@@ -1,2 +1,2 @@
-# test-case-generator
-test case generator
+# case-generator
+case generator
