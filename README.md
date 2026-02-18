@@ -2,7 +2,7 @@
 
 ![CI Status](https://github.com/haili-hub/test-case-generator/workflows/CI/badge.svg)
 
-Case generator dummy file for testing github.
+Case generator dummy file for testing GitHub.
 
 ## GitHub Actions Workflow
 
